@@ -1,4 +1,4 @@
-## I decided to make my page on the github.io domain and share with everybody
+# I decided to make my page on the github.io domain and share with everybody
 
 For this, I used the following tools / languages:
 
@@ -8,7 +8,7 @@ For this, I used the following tools / languages:
 - HTML
 - Bootstrap
 
-# Template I used
+### Template I used
 
 I chose this template to create my page: https://startbootstrap.com/template-overviews/resume/
 But if you don't like this template, there are other options here: https://startbootstrap.com/themes/
